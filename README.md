@@ -1,6 +1,6 @@
-# Rising_Star_Pre-assignment
+# Rising Star Pre assignment
 
-## Information
+## Summary
 
 * The web address from which the necessary data is obtained:
 
@@ -14,15 +14,14 @@
 
 ## Data preparation
 
-* Allowed the user to pass the start and end dates of the date range.
-
-* By applying a variable date range, data is obtained from the API.
+* The bitcoin data is obtained from the API by the date range provided by the user.
 
 * Data preprocessing steps were applied.
-  * 3 tables combined. Thus, it was made ready for different tasks and ease of use was ensured.
-  * The date in the form of a timestamp has been converted to time data and made ready for analysis.
-  * If the date range was between 1-90 days, the data was acquired hourly. Since daily data is used, the closest data to 00:00 UTC time of the day is selected.
 
+  * 3 tables(time,market caps,total volumes) are combined and this combination makes the works easier in the upcoming tasks.
+  * The date(timestamp format) is converted to time data to make it ready for the analysis.
+  * If the date range is between 1-90 days, the data is acquired hourly. Since daily data is used, the closest data to 00:00 UTC time of the day is selected.
+  
 * Time-dependent changes in prices, market caps and volumes values are visualized.
 
 ## Tasks
