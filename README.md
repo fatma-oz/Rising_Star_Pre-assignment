@@ -1,4 +1,11 @@
 # Rising_Star_Pre-assignment
+* the web address from which the necessary data is obtained:
+
+https://www.coingecko.com/en/api/documentation
+
+* Bitcoin data, in euros.
+
+* The data includes date (of the timestamp type), market caps and total volumes variables.
 
 * The aim of this project is to analyze the market value of bitcoin for a given date range.
 
