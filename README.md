@@ -1,6 +1,6 @@
-## Rising_Star_Pre-assignment
+# Rising_Star_Pre-assignment
 
-# Information
+## Information
 
 * The web address from which the necessary data is obtained:
 
@@ -12,7 +12,7 @@
 
 * The aim of this project is to analyze the market value of bitcoin for a given date range.
 
-# Data preparation
+## Data preparation
 
 * Allowed the user to pass the start and end dates of the date range.
 
@@ -25,7 +25,7 @@
 
 * Time-dependent changes in prices, market caps and volumes values are visualized.
 
-# Tasks
+## Tasks
 
   A. The daily price data in a certain date range given by the downward_trend function were compared consecutively. It was determined how many days the longest   downtrend was.
 
