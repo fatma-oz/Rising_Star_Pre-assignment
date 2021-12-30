@@ -1,7 +1,7 @@
 # Rising_Star_Pre-assignment
-* the web address from which the necessary data is obtained:
+* The web address from which the necessary data is obtained:
 
-https://www.coingecko.com/en/api/documentation
+  https://www.coingecko.com/en/api/documentation
 
 * Bitcoin data, in euros.
 
