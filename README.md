@@ -20,8 +20,8 @@
 
 * Time-dependent changes in prices, market caps and volumes values ​​are visualized.
 
-A. The daily price data in a certain date range given by the downward_trend function were compared consecutively. It was determined how many days the longest downtrend was.
+  A. The daily price data in a certain date range given by the downward_trend function were compared consecutively. It was determined how many days the longest   downtrend was.
 
-B. The maximum value (the highest trading volume) of the total volumes variable in euros and the date of this value were reached.
+  B. The maximum value (the highest trading volume) of the total volumes variable in euros and the date of this value were reached.
 
-C. By finding the maximum profit the given date range, it was determined on which day the bitcoin should be bought and sold in order to obtain this profit.
+  C. By finding the maximum profit the given date range, it was determined on which day the bitcoin should be bought and sold in order to obtain this profit.
